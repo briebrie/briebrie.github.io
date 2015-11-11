@@ -1,10 +1,14 @@
 body{	
-	background-image: zaragoza_hero_image.jpg("zaragoza.jpg");
+	background-image: http://briebrie.github.io/unit3/images/zaragoza_hero_image.jpg("zaragoza.jpg");
 	background-color: #4C74FF;
 	}
 h1{
 	font-family:	"Trebuchet MS", sans-serif;
 }
 p{
+	font-family:	"Trebuchet MS", sans-serif;
 	font-style:		italic;
+}
+ul,li{
+	font-family:	"Trebuchet MS", sans-serif;
 }
