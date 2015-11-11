@@ -1,5 +1,9 @@
 body{	
-	background-image: url(http://briebrie.github.io/unit3/images/zaragoza_hero_image.jpg)no-repeat;
+	background-image: url(http://briebrie.github.io/unit3/images/zaragoza_hero_image.jpg) no-repeat center center fixed;
+	-webkit-background-size:	cover;
+	-moz-background-size:		cover;
+	-o-background-size:			cover;
+	background-size:			cover;
 	background-color: #4C74FF;
 	font-family:	"Trebuchet MS", sans-serif;
 	}
